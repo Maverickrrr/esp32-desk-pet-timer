@@ -23,3 +23,6 @@ py -m mpremote connect COM6 reset
 
 ## 协作
 日常从更新后的 develop 创建个人分支，推送后提交到 develop 的 Pull Request。
+
+## 许可证
+本项目以 [MIT License](LICENSE) 发布。
